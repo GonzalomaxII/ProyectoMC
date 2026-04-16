@@ -1,1 +1,1 @@
-Puede Haber problemas de funcionamiento debido a requerimientos que dificultaban la integridad del codigo como la comunicación de distintos archivos en carpetas distintas simplemente porque se pidio asi como requerimientos de negocio(por el profesor/a)
+Puede Haber problemas al tratar de probar el codigo debido a requerimientos de negocios asignados por el profesor/a que dificultaban la integridad del codigo como la comunicación de distintos archivos en carpetas distintas pero que no podian reconocerse entre si debido a limitaciones del entorno de desarollo.
